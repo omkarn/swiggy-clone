@@ -1,0 +1,34 @@
+{
+  "name": "swiggy-clone",
+  "version": "1.0.0",
+  "description": "Swiggy Clone by Omkar Nirmal",
+  "scripts": {
+    "start": "parcel ./public/index.html",
+    "build": "parcel ./public/build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omkarn/swiggy-clone.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Omkar Nirmal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omkarn/swiggy-clone/issues"
+  },
+  "homepage": "https://github.com/omkarn/swiggy-clone#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
